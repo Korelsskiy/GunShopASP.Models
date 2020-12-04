@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GunShopASP.Models", "GunShopASP.Models.csproj", "{F4E4FA10-9D66-4CEC-A8B3-4EFFC8AC4B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E4FA10-9D66-4CEC-A8B3-4EFFC8AC4B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E4FA10-9D66-4CEC-A8B3-4EFFC8AC4B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E4FA10-9D66-4CEC-A8B3-4EFFC8AC4B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E4FA10-9D66-4CEC-A8B3-4EFFC8AC4B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8424ADF8-23D4-44A0-BFE3-54FC0A78DF28}
+	EndGlobalSection
+EndGlobal
